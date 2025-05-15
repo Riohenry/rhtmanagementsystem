@@ -589,7 +589,7 @@ const samples = [
   },
   {
     sampleId: 7008,
-    patientName: "Robert kayanja",
+    patientName: "Robert kayanjja",
     sampleType: "Blood",
     collectionDate: "May 9, 2025",
     collectedBy: "Nurse benita",

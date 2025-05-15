@@ -329,7 +329,7 @@ const upcomingAppointments = [
   },
   {
     id: 2,
-    date: "May 13, 2025",
+    date: "May 16, 2025",
     time: "10:30 AM",
     patient: "Wilbroad",
     doctor: "Dr. lwanga",

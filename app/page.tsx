@@ -208,7 +208,7 @@ const staffOnDuty = [
   {
     id: 4,
     name: "lwanga",
-    role: "IT helper",
+    role: "IT suppoter",
     shift: "7PM-7AM",
   },
 ]

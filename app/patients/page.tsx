@@ -227,7 +227,7 @@ const patients = [
   },
   {
     id: 10007,
-    name: "sheebah kalungi",
+    name: "sheebah kalungii",
     age: 38,
     gender: "Female",
     phone: "0741811908",

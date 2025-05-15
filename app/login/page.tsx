@@ -61,7 +61,7 @@ export default function LoginPage() {
         <Card>
           <CardHeader className="space-y-1">
             <CardTitle className="text-2xl font-bold text-center">Login</CardTitle>
-            <CardDescription className="text-center">Enter your credentials to access your account</CardDescription>
+            <CardDescription className="text-center">Enter your credentials to access your account please</CardDescription>
           </CardHeader>
           <CardContent>
             {error && (

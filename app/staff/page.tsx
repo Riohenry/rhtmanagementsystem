@@ -228,7 +228,7 @@ const staff = [
   },
   {
     id: 3,
-    name: "Dr. Jennifer",
+    name: "Dr.  Inocent",
     role: "Doctor",
     specialty: "Pediatrics",
     department: "Pediatrics",

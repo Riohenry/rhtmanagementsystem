@@ -88,7 +88,7 @@ export default function ForgotPasswordPage() {
             <div className="text-center text-sm">
               Remember your password?{" "}
               <Link href="/login" className="text-teal-600 hover:text-teal-500 font-medium">
-                Back to login
+                Back to login page
               </Link>
             </div>
           </CardFooter>

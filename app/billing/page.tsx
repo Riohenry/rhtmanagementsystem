@@ -201,7 +201,7 @@ export default function BillingPage() {
 const invoices = [
   {
     id: 5001,
-    patient: "Emma ",
+    patient: "samson ",
     date: "May 10, 2025",
     amount: 150.0,
     status: "Paid",
