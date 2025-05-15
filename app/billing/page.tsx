@@ -63,10 +63,10 @@ export default function BillingPage() {
                         <SelectValue placeholder="Select patient" />
                       </SelectTrigger>
                       <SelectContent>
-                        <SelectItem value="emma">Emma Thompson</SelectItem>
-                        <SelectItem value="james">James Wilson</SelectItem>
-                        <SelectItem value="sophia">Sophia Garcia</SelectItem>
-                        <SelectItem value="michael">Michael Chen</SelectItem>
+                        <SelectItem value="samon">lwanga samson</SelectItem>
+                        <SelectItem value="samson">samson lwanga</SelectItem>
+                        <SelectItem value="samson">Mr Wilbroad</SelectItem>
+                        <SelectItem value="samson">Mrs.innocent</SelectItem>
                       </SelectContent>
                     </Select>
                   </div>
@@ -201,7 +201,7 @@ export default function BillingPage() {
 const invoices = [
   {
     id: 5001,
-    patient: "Emma Thompson",
+    patient: "Emma ",
     date: "May 10, 2025",
     amount: 150.0,
     status: "Paid",
@@ -209,7 +209,7 @@ const invoices = [
   },
   {
     id: 5002,
-    patient: "James Wilson",
+    patient: "Wilson",
     date: "May 11, 2025",
     amount: 75.5,
     status: "Pending",
@@ -217,7 +217,7 @@ const invoices = [
   },
   {
     id: 5003,
-    patient: "Sophia Garcia",
+    patient: "Henry",
     date: "May 11, 2025",
     amount: 320.75,
     status: "Pending",
@@ -225,7 +225,7 @@ const invoices = [
   },
   {
     id: 5004,
-    patient: "Michael Chen",
+    patient: "Michael ",
     date: "May 9, 2025",
     amount: 95.0,
     status: "Paid",
@@ -233,7 +233,7 @@ const invoices = [
   },
   {
     id: 5005,
-    patient: "Olivia Davis",
+    patient: " Davis",
     date: "May 8, 2025",
     amount: 210.25,
     status: "Overdue",
@@ -241,7 +241,7 @@ const invoices = [
   },
   {
     id: 5006,
-    patient: "William Brown",
+    patient: "William ",
     date: "May 7, 2025",
     amount: 180.0,
     status: "Paid",
@@ -249,7 +249,7 @@ const invoices = [
   },
   {
     id: 5007,
-    patient: "Ava Miller",
+    patient: "Ava peace",
     date: "May 6, 2025",
     amount: 250.5,
     status: "Overdue",
@@ -257,7 +257,7 @@ const invoices = [
   },
   {
     id: 5008,
-    patient: "Robert Johnson",
+    patient: "Robert ",
     date: "May 5, 2025",
     amount: 125.75,
     status: "Paid",

@@ -40,7 +40,7 @@ export function MobileNav() {
         <SheetHeader className="pb-4">
           <SheetTitle className="flex items-center gap-2 font-semibold">
             <Activity className="h-6 w-6 text-teal-600" />
-            <span>MediCare Clinic</span>
+            <span>RHT SYSTEM</span>
           </SheetTitle>
         </SheetHeader>
         <nav className="flex flex-col gap-2 py-4">

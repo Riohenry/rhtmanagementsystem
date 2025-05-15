@@ -7,8 +7,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "MediCare Clinic - Hospital Management System",
-  description: "A comprehensive hospital management system for healthcare providers",
+  title: "RHT - Management System",
+  description: "A comprehensive hospital management system for RHT Uganda",
     generator: 'v0.dev'
 }
 

@@ -41,7 +41,7 @@ export default function ForgotPasswordPage() {
         <div className="flex justify-center mb-6">
           <Link href="/" className="flex items-center gap-2 font-semibold">
             <Activity className="h-8 w-8 text-teal-600" />
-            <span className="text-2xl">MediCare Clinic</span>
+            <span className="text-2xl">Ruralhealthteam</span>
           </Link>
         </div>
 

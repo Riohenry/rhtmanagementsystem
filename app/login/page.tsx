@@ -32,7 +32,7 @@ export default function LoginPage() {
       await new Promise((resolve) => setTimeout(resolve, 1000))
 
       // Simple validation for demo
-      if (email === "admin@medicare.com" && password === "password") {
+      if (email === "admin@wilbroad.com" && password === "wilbroad") {
         // Set a cookie to simulate authentication
         document.cookie = "auth_token=dummy_token; path=/; max-age=86400"
 
@@ -54,7 +54,7 @@ export default function LoginPage() {
         <div className="flex justify-center mb-6">
           <div className="flex items-center gap-2 font-semibold">
             <Activity className="h-8 w-8 text-teal-600" />
-            <span className="text-2xl">MediCare Clinic</span>
+            <span className="text-2xl">RURAL HEALTH TEAM</span>
           </div>
         </div>
 
@@ -126,9 +126,9 @@ export default function LoginPage() {
         </Card>
 
         <div className="mt-4 text-center text-sm text-gray-500">
-          <p>For demo purposes, use:</p>
-          <p>Email: admin@medicare.com</p>
-          <p>Password: password</p>
+          <p>contact developer for help</p>
+          {/* <p>Email: admin@medicare.com</p>
+          <p>Password: password</p> */}
         </div>
       </div>
     </div>
